@@ -8,13 +8,13 @@
 - Libraries used - pandas, numpy, sklearn, Flask
 ## Usage:
 
-- 1). Clone the repository to your local machine:
+-1). Clone the repository to your local machine:
  git clone https://github.com/Promilasharan/House-price-prediction.git
  
-- 2). Navigate to the jupyter notebook: 
+-2). Navigate to the jupyter notebook: 
 cd House Price Prediction.ipynb
 
-- 3). Install the required packages:
+-3). Install the required packages:
 pip install -r requirements.txt
 
 -4). Run the application:
