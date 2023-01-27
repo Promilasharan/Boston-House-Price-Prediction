@@ -7,15 +7,17 @@
 - Language used: Python (3.7 or higher)
 - Libraries used - pandas, numpy, sklearn, Flask
 ## Usage:
-- 1). Clone the repository to your local machine
-- git clone [https://github.com/Promilasharan/House-price-prediction.git]
-- 2). Navigate to the project directory
+
+- 1). Clone the repository to your local machine:
+ git clone https://github.com/Promilasharan/House-price-prediction.git
+ 
+- 2). Navigate to the project directory:
 cd House-price-prediction
 
-- 3). Install the required packages
+- 3). Install the required packages:
 pip install -r requirements.txt
 
--4). Run the application
+-4). Run the application:
 python app.py
 
--5). Open your browser and go to http://localhost:5000 to view the application
+-5). Open your browser and go to (http://localhost:5000) to view the application
