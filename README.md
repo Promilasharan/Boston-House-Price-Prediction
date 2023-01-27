@@ -8,7 +8,7 @@
 - Libraries used - pandas, numpy, sklearn, Flask
 ## Usage:
 - 1). Clone the repository to your local machine
--- git clone [(https://github.com/Promilasharan/House-price-prediction.git)]
+- git clone [https://github.com/Promilasharan/House-price-prediction.git]
 - 2). Navigate to the project directory
 cd House-price-prediction
 
