@@ -9,14 +9,15 @@
 ## Usage:
 
 - 1). Clone the repository to your local machine:
- [git clone](https://github.com/Promilasharan/House-price-prediction.git)
+ git clone (https://github.com/Promilasharan/House-price-prediction.git)
  
-- 2). Navigate to the jupyter notebook : 
-[cd](https://github.com/Promilasharan/House-price-prediction/blob/main/House%20Price%20Prediction.ipynb) 
+- 2). Navigate to the jupyter notebook: 
+cd House Price Prediction.ipynb
+
 - 3). Install the required packages:
-[pip install](https://github.com/Promilasharan/House-price-prediction/blob/main/requirements.txt)
+pip install -r requirements.txt
 
 -4). Run the application:
 python app.py
 
--5). Open your browser and go to (http://localhost:5000) to view the application
+-5). Open your browser and go to http://localhost:5000 to view the application
